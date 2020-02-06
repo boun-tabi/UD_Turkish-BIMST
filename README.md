@@ -1,7 +1,7 @@
 
 # Summary
 
-This is the edited version of a UD_Turkish-IMST treebank. For the original treebank, please visit [UD_Turkish-PUD github](https://github.com/UniversalDependencies/UD_Turkish-IMST/). Within the [TABILAB](http://http://tabilab.cmpe.boun.edu.tr/)'s project supported the Scientific and Technological Research Council of Turkey (TÜBITAK) under grant number 117E971, we have edited the syntactic relations within the original tree. 
+This is the edited version of a UD_Turkish-IMST treebank. For the original treebank, please visit [UD_Turkish-IMST github](https://github.com/UniversalDependencies/UD_Turkish-IMST/). Within the [TABILAB](http://http://tabilab.cmpe.boun.edu.tr/)'s project supported by the Scientific and Technological Research Council of Turkey (TÃœBITAK) under grant number 117E971, we have edited the syntactic relations within the original tree. 
 
 # More
 
