@@ -1,11 +1,11 @@
 
 # Summary
 
-This is the edited version of a UD_Turkish-IMST treebank. For the original treebank, please visit [UD_Turkish-IMST github](https://github.com/UniversalDependencies/UD_Turkish-IMST/). Within the [TABILAB](http://http://tabilab.cmpe.boun.edu.tr/)'s project supported by the Scientific and Technological Research Council of Turkey (TÜBITAK) under grant number 117E971, we have edited the syntactic relations within the original tree.
+This is the edited version of a UD_Turkish-IMST treebank. For the original treebank, please visit [UD_Turkish-IMST github](https://github.com/UniversalDependencies/UD_Turkish-IMST/). Within the [TABILAB](http://http://tabilab.cmpe.boun.edu.tr/)'s project supported by the Scientific and Technological Research Council of Turkey (TÜBITAK) under grant number 117E971, we have manually edited the syntactic relations within the original treebank.
 
 # More
 
-We have used these treebanks in our paper to be published in the proceedings of UDW within SyntaxFest'19.
+The revisions made on the IMST-UD treebank are discussed in our paper published in the proceedings of UDW within SyntaxFest'19.
 
 Under the [guidelines](https://github.com/boun-tabi/UD_Turkish-BIMST/tree/master/guidelines/)  directory, you can find our new proposed guidelines to the guidelines that can be found in the [UD website](https://universaldependencies.org/u/dep/all.html)
 
