@@ -5,7 +5,7 @@ This is the edited version of a UD_Turkish-IMST treebank. For the original treeb
 
 # More
 
-The revisions made on the IMST-UD treebank are discussed in our paper published in the proceedings of UDW within SyntaxFest'19.
+The revisions made on the IMST-UD treebank are discussed in [our paper] (https://www.aclweb.org/anthology/W19-8013.pdf) published in the proceedings of UDW within SyntaxFest'19.
 
 Under the [guidelines](https://github.com/boun-tabi/UD_Turkish-BIMST/tree/master/guidelines/)  directory, you can find our new proposed guidelines to the guidelines that can be found in the [UD website](https://universaldependencies.org/u/dep/all.html)
 
